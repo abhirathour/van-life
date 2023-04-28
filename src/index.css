@@ -1,0 +1,15 @@
+.home-cont {
+  background: url("./assets/travel-home.jpg");
+
+  height: 500px;
+}
+
+.nav-bg {
+  background-color: antiquewhite;
+}
+
+.about-bg {
+  display: inline-block;
+  width: 100vw;
+  max-height: 70vh;
+}
