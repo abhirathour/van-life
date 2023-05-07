@@ -3,6 +3,9 @@
 
   height: 500px;
 }
+.body {
+  background-color: antiquewhite;
+}
 
 .nav-bg {
   background-color: antiquewhite;
@@ -12,4 +15,26 @@
   display: inline-block;
   width: 100vw;
   max-height: 70vh;
+}
+
+.van-cont {
+  min-height: 100vh;
+  background-color: antiquewhite;
+}
+
+.van-img {
+  width: 200px;
+}
+
+.hostVan-img {
+  width: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  /* font-weight: bold; */
+  text-decoration: underline;
 }

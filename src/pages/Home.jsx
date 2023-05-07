@@ -21,9 +21,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="bg-dark text-light p-5 fs-4 text-center ">
-        @2023 #VANLIFE
-      </div>
     </>
   );
 }
